@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyaskhambayate
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, C#
+- 👀 I’m interested in Software Development, low level programming. 
+- 🌱 I’m currently working at Siemens Digital Industries Software as a C++ Developer. My work revolves around C++, COM, MFC
 - 📫 How to reach me shreyaskhambayate26@gmail.com
 
 <!---
